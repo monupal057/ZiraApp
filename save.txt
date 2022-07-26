@@ -1,0 +1,8 @@
+"terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "files.autoSave": "afterDelay",
+    "liveServer.settings.port": 5500,
+    "terminal.integrated.shellArgs.windows": [],
+    "workbench.colorTheme": "Visual Studio Dark",
+    "remote.WSL.server.connectThroughLocalhost": true,
+    "liveServer.settings.ChromeDebuggingAttachment": false,
+    "liveServer.settings.CustomBrowser": "chrome"
